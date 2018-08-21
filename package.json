@@ -1,0 +1,25 @@
+{
+  "name": "dreamr",
+  "version": "1.0.0",
+  "description": "A pwa app for interpreting dreams",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rotimi-Best/dreamr.git"
+  },
+  "author": "Rotimi-Best",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rotimi-Best/dreamr/issues"
+  },
+  "homepage": "https://github.com/Rotimi-Best/dreamr#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "*",
+    "body-parser": "*",
+    "express-handlebars": "*"
+  }
+}
