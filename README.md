@@ -1,2 +1,2 @@
 # Dreamr
-This is a progress web app that allows you to interpret your dreams based on keywords
+This is a progressive web app that allows you to interpret your dreams based on keywords
